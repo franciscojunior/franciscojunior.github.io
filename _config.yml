@@ -31,7 +31,7 @@ owner:
   bio: "Developer, geek, gamer."
   email:
   disqus-shortname:
-  twitter: #franciscojunior
+  twitter: franciscojunior
   facebook: #username
   google:
     plus: #username
@@ -40,8 +40,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #franciscojunior
-  stackoverflow: #http://stackoverflow.com/users/246097/francisco-junior
+  github: franciscojunior
+  stackoverflow: http://stackoverflow.com/users/246097/francisco-junior
   linkedin: #username
   xing: #username
   instagram: #username
